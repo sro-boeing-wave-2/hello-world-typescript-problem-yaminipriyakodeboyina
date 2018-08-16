@@ -7,10 +7,10 @@ On click of the **Say Hello** button display Hello World in the **Hello World Se
 
 ## Instructions
 ```
-# You should be able to build your application using the following command
+# You should configure your package.json to be able to build your application using the following command
 npm run build
 
-# You should be able to run your application using the following command
+# You should configure your package.json to be able to run your application using the following command
 npm start
 
 Hint: You can use static server to serve your static content
